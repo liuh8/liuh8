@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liuh8&label=Profile%20views&color=0e75b6&style=flat" alt="liuh8" /> </p>
 
-- 🔭 I’m currently enrolled in [Northeastern University](https://www.northeastern.edu/)
+- 🔭 I’m currently enrolled in **Northeastern University**
 
 - 🌱 I’m currently learning **Algorithms, Software Security**
 
